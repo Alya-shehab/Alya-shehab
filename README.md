@@ -1,45 +1,53 @@
 ## Hi, I'm Alya 👋
 
-Computer Science student passionate about building modern, clean, and user-focused web experiences.  
-Currently strengthening front-end development skills and developing projects to expand technical depth and creativity.
+Computer Science student focused on building real, simple, and user-friendly web experiences.  
+Right now I'm deep into front-end fundamentals — learning by building, breaking, and fixing things myself.
 
-Driven by improvement, problem-solving, and building real-world applications through continuous learning.
-
----
-
-### 🚀 About Me
-- Front-end learner focused on **HTML, CSS, JavaScript**
-- Strong programming foundation in **Java & Python**
-- Experience with university tech clubs & collaborative work
-- Interested in clean UI design, modern web practices, and building practical tools
+I care about clean UI, clear logic, and making things feel good to use — not just “work.”
 
 ---
 
-### 🛠️ Tech Skills
-| Category | Tools & Technologies |
-|---------|----------------------|
-**Languages** | Java, Python, C++, MIPS, HTML, CSS  
-**DB / Networking** | MySQL, Cisco Packet Tracer  
-**Other** | Problem-solving, UI basics, teamwork, time management  
+### 🌱 What I'm Working On
+- Strengthening HTML, CSS & JavaScript
+- Building small UI projects and real layouts
+- Understanding component-based design + reusable code
 
 ---
 
-### 📚 Education
-**B.S. Computer Science**  
-Imam Abdulrahman Bin Faisal University — 2027 *(Expected)*
+### 🎯 My Current Direction
+- Front-End Development (priority)
+- UX Principles & clean design
+- Eventually: modern stacks → React & Tailwind
 
 ---
 
-### 🎓 Certifications
-- Meta — Introduction to Front-End Development *(Coursera, 2025)*
-- Programming for Everybody — University of Michigan *(2025)*
-- Data Analysis Workshop — Satr *(2025)*
-- Low-Code / No-Code Workshop — Aramco *(2024)*  
-- Professional Identity & Self-Development — IAU *(2025)*
+### 🧠 Background (short & real)
+- CS foundation (Java, Python, data structures)
+- Built academic systems (like a hotel management system)
+- Networking & embedded basics from uni projects
+- Comfortable learning fast & figuring things out solo
+
+Not claiming senior dev energy — just building my skills step-by-step.
 
 ---
 
-### 💻 Projects
-#### Hotel Management System  
-Full hotel workflow system: rooms, guests, reservati
+### ⚒️ Tech I Use / Learning
+- **Front-End:** HTML, CSS, JavaScript
+- **Backbone:** Java, Python
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📌 Latest Project
+**Hotel Management System (Java MVC)**  
+Academic project — now shifting to front-end, but it's part of my journey.
+
+---
+
+### 📫 Contact
+`shehabalya@gmail.com`
++966568937469
+---
+
+✨ *If you're reading this later — there's probably more front-end stuff here by now.*
 
