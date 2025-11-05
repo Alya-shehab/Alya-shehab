@@ -46,6 +46,7 @@ Academic project — now shifting to front-end, but it's part of my journey.
 
 ### 📫 Contact
 `shehabalya@gmail.com`
+
 +966568937469
 ---
 
