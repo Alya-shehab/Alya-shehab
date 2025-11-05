@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hi, I'm Alya 👋
 
-<!--
-**Alya-shehab/Alya-shehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student passionate about building functional, clean, and user-focused software solutions.  
+Focused on learning Java development, system design, and database fundamentals.
 
-Here are some ideas to get you started:
+### 🎯 Interests
+- Software development (Java & Web)
+- Database design & SQL
+- Object-Oriented programming
+- UI/UX fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Currently Learning
+- Java GUI development (Swing / basics of JavaFX)
+- SQL & relational databases
+- Version control & Git workflows
+
+### 💼 Academic Projects
+- **Hotel Management System (Java MVC)**
+  Desktop hotel system covering reservations, rooms, invoices, and guests  
+  *Java • Swing • MVC • ERD • SQL Design*
+
+### 🛠️ Tech Stack
+- Java  
+- SQL (MySQL design & queries)  
+- Git / GitHub  
+- Basic HTML, CSS
+
+### 📫 Contact
+- Email: `shehabalya@gmail.com`
+- Number: '+966568937469
+
