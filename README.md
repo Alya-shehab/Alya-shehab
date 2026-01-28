@@ -1,9 +1,9 @@
 ## Hi, I'm Alya 👋
 
-Computer Science student focused on building real, simple, and user-friendly web experiences.  
-Right now I'm deep into front-end fundamentals — learning by building, breaking, and fixing things myself.
+Computer Science student focused on building practical, well-structured solutions to real problems.
+Interested in software development, data, and systems, with a strong emphasis on clear logic and usability.
 
-I care about clean UI, clear logic, and making things feel good to use — not just “work.”
+Driven by continuous learning and contributing to meaningful projects aligned with Saudi Vision 2030.
 
 ---
 
