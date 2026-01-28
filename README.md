@@ -41,5 +41,5 @@ shehabalya@gmail.com
 
 ---
 
-✨ *If you're reading this later — there's probably more front-end stuff here by now.*
+✨ If you're reading this later, you'll probably find more projects and experiments here
 
