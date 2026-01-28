@@ -7,40 +7,32 @@ I care about clean UI, clear logic, and making things feel good to use — not j
 
 ---
 
-### 🌱 What I'm Working On
+###  What I'm Working On
 - Strengthening HTML, CSS & JavaScript
 - Building small UI projects and real layouts
 - Understanding component-based design + reusable code
 
 ---
 
-### 🎯 My Current Direction
-- Front-End Development (priority)
-- UX Principles & clean design
-- Eventually: modern stacks → React & Tailwind
+###  My Current Direction
+- Front-End Development
 
 ---
 
-### 🧠 Background (short & real)
+###  Background (short & real)
 - CS foundation (Java, Python, data structures)
 - Built academic systems (like a hotel management system)
 - Networking & embedded basics from uni projects
 - Comfortable learning fast & figuring things out solo
 
-Not claiming senior dev energy — just building my skills step-by-step.
+Not claiming senior dev energy — just building my skills step by step.
 
 ---
 
-### ⚒️ Tech I Use / Learning
+###  Tech I Use / Learning
 - **Front-End:** HTML, CSS, JavaScript
 - **Backbone:** Java, Python
-- **Tools:** Git, GitHub, VS Code
-
----
-
-### 📌 Latest Project
-**Hotel Management System (Java MVC)**  
-Academic project — now shifting to front-end, but it's part of my journey.
+- **Tools:** GitHub, VS Code
 
 ---
 
