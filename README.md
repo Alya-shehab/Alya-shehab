@@ -32,10 +32,10 @@ Not claiming senior dev energy — just building my skills step by step.
 ---
 
 ### 📫 Contact
-
 shehabalya@gmail.com
 
 +966 568937469
+
 ---
 
 ✨ If you're reading this later, you'll probably find more projects and experiments here
