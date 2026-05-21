@@ -14,11 +14,6 @@ Driven by continuous learning and contributing to meaningful projects aligned wi
 
 ---
 
-###  My Current Direction
-- Front-End Development
-
----
-
 ###  Background (short & real)
 - CS foundation (Java, Python, data structures)
 - Built academic systems (like a hotel management system)
@@ -38,7 +33,7 @@ Not claiming senior dev energy — just building my skills step by step.
 
 ### 📫 Contact
 shehabalya@gmail.com
-
++966 568937469
 ---
 
 ✨ If you're reading this later, you'll probably find more projects and experiments here
